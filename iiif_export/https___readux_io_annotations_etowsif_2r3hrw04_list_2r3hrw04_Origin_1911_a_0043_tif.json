@@ -1,0 +1,57 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/annotations/etowsif/2r3hrw04/list/2r3hrw04_Origin-1911-a-0043.tif",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d49f9d20-c414-429e-a5e4-731e725317b6",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "etowsif"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">J. S. James left ABBEVILLE&rsquo;s music unattributed both in </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sacred Tunes and Hymns</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> and </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Original Sacred Harp</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> (1911). </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">This erasure is part of a pattern of minimizing the contributions to the tunebook of </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Sacred Harp</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> (1844) junior compiler E. J. King</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, about whom James knew little.&nbsp;</span></p>\n<p><span id=\"docs-internal-guid-b1284844-7fff-670a-98a5-2f8fc0ab63ee\"><br /><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">As justification for removing the attribution James notes in his historical note for ABBEVILLE in </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Original Sacred Harp</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> that, although &ldquo;Prof. King changed some of the notes,&rdquo; the &ldquo;tune appears in other books of much earlier date than 1844.&rdquo; </span><span style=\"font-size: 11pt; font-family: Arial; background-color: #ffff00; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">This is true</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">: variants of ABBEVILLE date back to the early nineteenth century. Yet King&rsquo;s three-part arrangement is wholly his own, with melodic bass and treble parts and striking chords&mdash;such as the ii chord in second inversion in the song&rsquo;s third and penultimate measures.</span></span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r3hrw04/canvas/2r3hrw04_Origin-1911-a-0043.tif",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r3hrw04/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=217,2932,3063,53",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='cb308e03-6950-4d84-a8bd-f3572ea5f087']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='c26564b3-10bd-49ca-ace6-716d522a874f']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-d49f9d20-c414-429e-a5e4-731e725317b6 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/annotations/etowsif/2r3hrw04/list/2r3hrw04_Origin-1911-a-0092.tif",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "546097c0-73e0-4646-ab75-cc3bc4afa026",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "etowsif"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p><span id=\"docs-internal-guid-cdec8e8f-7fff-c563-06b8-90ead5ff48f5\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Reference to historical note: </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;Rev. John Leland was born in 1754 and died in 1844. He was a Baptist preacher. In 1801 he took a preaching tour from his home in Massachusetts to Washington with his Cheshire cheese, and made his name national on account of that trip. He wrote his own hymns. He composed the hymn, \"The Day is Passed and Gone, The Evening Shades Appear.\" The farmers of Cheshire, for whom he was pastor, conceived the idea of sending the biggest cheese in America to President Jefferson. Mr. Leland offered to go to Washington with an ox team with it, and preach all along the way, which he did. The cheese weighed 1,450 pounds. He died with bright hopes of rest in the glory world.&rdquo;</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span></span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r3hrw04/canvas/2r3hrw04_Origin-1911-a-0092.tif",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r3hrw04/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=481,472,570,47",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='6d13c1e6-e721-47f9-9cc1-4024ee972a1a']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='ca8e46db-58ef-445c-a25b-faebe05dd3c7']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-546097c0-73e0-4646-ab75-cc3bc4afa026 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a4eb353d-7b64-49b8-aa7d-28c27b8e4d3b",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "etowsif"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<ul style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\">\n<li dir=\"ltr\" style=\"list-style-type: circle; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">BIRDSEYE: The editors of Union Harp added this unusual and awkward fermata that extends the first syllable of a word mid-phrase, which also appears in OSH yet is not present in C19 editions of SH. Emphasizing the highest note in the song&rsquo;s melody, </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">the editors might have hoped to heighten the song&rsquo;s dramatic arc. Singers, however, may have been less compelled by this proposed phrasing</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. A 1928 quartet recording of Allison&rsquo;s Sacred Harp Singers features the group singing this selection with measured extensions of the song&rsquo;s key notes. Notably, the singers do not observe this hold that editors of Original Sacred Harp: Denson Revision removed in 1936. Reference: John Bealle and Joyce Cauthen, &ldquo;Allison&rsquo;s Sacred Harp Singers,&rdquo; Articles and Essays on Sacred Harp Singing, accessed January 15, 2020, </span><a style=\"text-decoration: none;\" href=\"http://home.olemiss.edu/~mudws/articles/Allison.htm\"><span style=\"font-size: 11pt; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; -webkit-text-decoration-skip: none; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">http://home.olemiss.edu/~mudws/articles/Allison.htm</span></a><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.</span></p>\n</li>\n</ul>\n<p><span id=\"docs-internal-guid-c333e0fe-7fff-6630-011c-bcfe3b1dea47\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">FIRST MEASURE OF SONG: Many songs in nineteenth-century revisions of The Sacred Harp (1844&ndash;70) began with half or whole notes that allowed classes to sound a strong starting chord. The Union Harp reduced this opening note by half and also removed the preceding half note rest printed in the nineteenth-century editions of SH. </span><span style=\"font-size: 11pt; font-family: Arial; background-color: #ffff00; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">This subtle revision emulated the shorter pickups characteristic of gospel songs. James made similar alterations to several other songs in Union Harp.</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> He incorporated these changes and added yet more to the first printing of Original Sacred Harp. But editors here restored the original half note entrances in those he selected for STH. Likewise in OSH&rsquo;s second printing. </span><span style=\"font-size: 11pt; font-family: Arial; background-color: #ffff00; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Likely in response to singers&rsquo; objections to these reform efforts.</span></span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r3hrw04/canvas/2r3hrw04_Origin-1911-a-0092.tif",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r3hrw04/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3330,443,362,47",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='2888d78c-3062-4b65-b9e2-64d28264bbd7']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='6fdd751e-dab0-4baa-b2be-9eb9ff116a57']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a4eb353d-7b64-49b8-aa7d-28c27b8e4d3b { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6d9f5c6b-0aa6-4b8c-8ace-bcae2ced6263",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "etowsif"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p><span id=\"docs-internal-guid-0ff5b84d-7fff-e485-c638-ba619b493ab0\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">This now-infamous story of John Leland and his Cheshire cheese was widely reported in 1801 and still well known into the nineteenth- and early-twentieth centuries. Leland&rsquo;s journey to Washington celebrated Jefferson&rsquo;s election with an outsize political message of its own. The &ldquo;mammoth cheese,&rdquo; made solely from the milk of cows owned by non-slaveholders (the milk of &ldquo;Federal[ist] cows&rdquo; was also excluded), was Leland&rsquo;s expression of support for Jefferson&rsquo;s advocacy of the separation of church and state and also monument to his own abolitionist leanings. When it arrived in Washington, the great cheese was enthusiastically welcomed by the president and prominently displayed at the White House for more than two years. Subsequent cheese makers followed in Leland&rsquo;s footsteps. Thomas Meacham of Sandy Creek, New York, delivered a 1,400 pound cheese to President Andrew Jackson who served it at a public White House reception attended by 10,000 people. Jackson&rsquo;s gesture inspired television show West Wing creator Aaron Sorkin to conceive a series of episodes in which the show&rsquo;s presidential administration holds recurring &ldquo;Big Block of Cheese Days&rdquo; that reimagine Jackson&rsquo;s reception for a twentieth-century audience. From 2014&ndash;2016 President Barack Obama's White House staff made #BigBlockofCheeseDay an annual virtual event in which &ldquo;members of the Obama administration&rdquo; took to social media to answer questions. References Elihu Burritt, &ldquo;The Correspondence of Sylvanus Urban: The Great Cheshire Political Cheese,&rdquo; in The Gentleman&rsquo;s Magazine, vol. 3 (London: Bradbury, Evans, and Co., 1869), 634&ndash;640; J. Boehm, &ldquo;Mammoth Cheese,&rdquo; in Thomas Jefferson Encyclopedia, October 1997, /site/research-and-collections/mammoth-cheese; Megan Garber, &ldquo;The (Real) Story of the White House and the Big Block of Cheese,&rdquo; The Atlantic, January 21, 2015, https://www.theatlantic.com/politics/archive/2015/01/the-real-story-of-the-white-house-and-the-big-block-of-cheese/384676/; Alex Wall, &ldquo;Big Block of Cheese Day Is Back, and It&rsquo;s Feta Than Ever,&rdquo; blog, The White House: President Barack Obama, January 16, 2015, https://obamawhitehouse.archives.gov/blog/2015/01/16/big-block-cheese-day-back-and-its-feta-ever; Jesse P. Karlsberg, &ldquo;Echoes of John Leland&rsquo;s &lsquo;Mammoth Cheese&rsquo;?: Reviving #BigBlockOfCheeseDay at the White House,&rdquo; blog, Jesse P. Karlsberg, January 21, 2015, </span><a style=\"text-decoration-line: none;\" href=\"https://jpkarlsberg.com/2015/01/21/echoes-of-john-lelands-mammoth-cheese-reviving-bigblockofcheeseday-at-the-white-house/\"><span style=\"font-size: 11pt; font-family: Arial; color: #1155cc; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">https://jpkarlsberg.com/2015/01/21/echoes-of-john-lelands-mammoth-cheese-reviving-bigblockofcheeseday-at-the-white-house/</span></a><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">.</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">This recounting of Baptist pastor John Leland&rsquo;s &ldquo;peculiarities&rdquo;&nbsp; illustrates J. S. James&rsquo;s appreciation for a good story. Many late twentieth-century Sacred Harp singers appreciated James&rsquo;s penchant for sometimes surprising anecdotes, his idiosyncratic way with words, and the humorous mistakes that characterize many of the notes. </span><span style=\"font-size: 11pt; font-family: Arial; background-color: #ffff00; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">This commentary on New England minister John Leland and his &ldquo;Cheshire cheese&rdquo; led some singers to dub James&rsquo;s historical offerings the &ldquo;cheese notes.&rdquo; Singers in the Boston area even established an annual &ldquo;cheese notes singing&rdquo; in the early 1980s, featuring dramatic readings of this and other choice historical notes from Original Sacred Harp.</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> While undeniably comical, the propensity of the notes to encourage jokes at the tunebook&rsquo;s expense along with the uneven display of pages after seventy-five years of additions and substitutions, </span><span style=\"font-size: 11pt; font-family: Arial; background-color: #ffff00; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">was embarrassing to the tunebook&rsquo;s revisers who were already navigating a cultural context in which Sacred Harp singing was readily regarded as &ldquo;old fogy.&rdquo;</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> Reference &ldquo;Eccentric John Leland: Baptist Pastors Tell Stories of a Once Noted Preacher,&rdquo; The New York Times, October 26, 1886; Stephen A. Marini et al., eds., The Norumbega Harmony Historic and Contemporary Hymn Tunes and Anthems from the New England Singing School Tradition (Jackson, MS: University Press of Mississippi, 2003), 239.</span></span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r3hrw04/canvas/2r3hrw04_Origin-1911-a-0092.tif",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r3hrw04/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=394,1876,1096,55",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='ddfe5dab-c44d-4bc8-a477-73c4608f7de4']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='880d24f1-30bc-4665-80cc-275ef9b09522']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6d9f5c6b-0aa6-4b8c-8ace-bcae2ced6263 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        }
+    ]
+}

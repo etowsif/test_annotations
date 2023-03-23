@@ -1,0 +1,107 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/annotations/etowsif/2r3hrw04/list/2r3hrw04_Origin-1911-a-0111.tif",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b70fb3d1-6489-4e94-8963-77eeb53ce5c6",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "etowsif"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>&nbsp;</p>\n<ul style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\">\n<li dir=\"ltr\" style=\"list-style-type: circle; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">[</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">What to select??</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">] UHHS introduces a new, modernizing arrangement, with a revised treble and new alto, and no repeats. Version in OSH two years later introduces yet another new alto but harmony parts and structure exactly match SH C19 eds. Unlike RESTORATION, where no SH history to draw on, UHHS generally reprints OSH version, but for space reasons makes AABA in place of AABA&rsquo; through use of DC. </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">UHHS version has a particularly static alto that doesn&rsquo;t seem like SMD&rsquo;s work. Yet edits are unattributed.</span></p>\n</li>\n</ul>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r3hrw04/canvas/2r3hrw04_Origin-1911-a-0111.tif",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r3hrw04/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1399,466,590,63",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='ce992930-1926-4621-9a7e-fd5fdc35a841']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 1
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='6dc25492-f413-442b-90b7-f20fd2e09ecc']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b70fb3d1-6489-4e94-8963-77eeb53ce5c6 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4502fb50-af34-4549-b872-cc4d4caff021",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "etowsif"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p><span id=\"docs-internal-guid-2fbbea6d-7fff-485e-116a-9858ebab6948\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;AMARICK HALL, 1810.&rdquo;: A key element of James&rsquo;s presentation of OSH and companion books STH and UHHS as modern is updated attributions, which James researched drawing on his personal library. James trusted the scholarly and popular sources on which he relied more than the compilers of the C19 editions of the SH. Valued the prestige and educational achievements of these writers. In his research, he discovered that song histories were more complex than their representation on the page which undermined his confidence about attributions to BFW and EJK and others. This and two preceding songs composed or arranged by E. J. King, yet only middle attribution remains. Embarking on a modern direction with attribution&mdash;something to be researched and systematized. But prone to errors and unwarranted assumptions, he often overwrote attributions in C19 SH with new attributions drawn from his (sometimes incorrect) reading of these sources.</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: #ffff00; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Here, J. S. James conflated CANAAN&rsquo;S LAND with an unrelated tune, CANAAN, composed by Massachusetts tunesmith Amariah Hall. </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">James derived this attribution from Hezekiah Butterworth and Theron Brown&rsquo;s </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The Story of the Hymns and Tunes</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> (1906), which includes &ldquo;Canaan&rdquo; in a list of Hall&rsquo;s compositions, which James reproduced in his historical note for CANAAN&rsquo;S LAND in </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Original Sacred Harp</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> without acknowledging Butterworth and Brown as his source for the information. James credited three additional tunes in </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Original Sacred Harp</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> with names matching entries on the list to Hall, including DEVOTION,</span><span style=\"font-size: 11pt; font-family: Arial; background-color: #ffff00; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> signaling James&rsquo;s propensity to conflate tune with tune name. </span><span style=\"font-size: 11pt; font-family: Arial; background-color: #ffff00; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: #ffff00; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Although CANAAN&rsquo;S LAND is credited to E. J. King in C19 SH editions, James so valorized B&amp;B that he invented a more circumscribed role for King that also explained the difference in title from Hall&rsquo;s CANAAN: </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">It is thought that he added the chorus, as well as applied the words, of \"Canaan's Land,\" and changed its name adding \"Land[\"] to [\"]Canaan,\" making the tune \"Canaan's Land.\"</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Ref: Hezekiah Butterworth and Theron Brown, </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The Story of the Hymns and Tunes</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> (New York: George H. Doran, 1906), 514. OSH 101.</span></span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r3hrw04/canvas/2r3hrw04_Origin-1911-a-0111.tif",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r3hrw04/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=185,1726,851,59",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='a7e57605-8b33-4862-90ca-4601adb399a4']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 1
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='56dff4fc-b491-4af6-b29d-0f5c77b91bcc']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4502fb50-af34-4549-b872-cc4d4caff021 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        }
+    ]
+}

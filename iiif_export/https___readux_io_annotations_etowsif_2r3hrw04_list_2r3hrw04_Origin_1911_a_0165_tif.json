@@ -1,0 +1,157 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/annotations/etowsif/2r3hrw04/list/2r3hrw04_Origin-1911-a-0165.tif",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f85207fe-3ab0-484b-a06e-a8aa58482a12",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "etowsif"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p><span id=\"docs-internal-guid-76e46a0e-7fff-5026-cd82-b53d1cc8111f\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">For history of this Song: J. S. James tells an</span><span style=\"font-size: 11pt; font-family: Arial; background-color: #ffff00; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> entertaining if apocryphal story </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">of how Jeremiah Ingalls composed NORTHFIELD in his &ldquo;history of the song&rdquo; in </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Union Harp</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> and </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Original Sacred Harp</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">: </span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The origin of \"Northfield\" is: during his travels as a singing teacher, he stopped at a tavern in the town of Northfield for dinner. His dinner was very slow coming. He kept thinking, \"how long?\" He fell into the rhythm of Watts' sacred lines and the tune came with it. He named the tune \"Northfield.\"</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; background-color: #ffff00; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">James encountered this story WHERE?</span></span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r3hrw04/canvas/2r3hrw04_Origin-1911-a-0165.tif",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r3hrw04/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1539,352,517,69",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='6de711c5-58b2-495f-a36c-15ba5c9b378e']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='b7416823-53f3-46f7-b3b3-bc3ced161484']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f85207fe-3ab0-484b-a06e-a8aa58482a12 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "888e874e-ee5d-446b-8aaa-a34c750c5602",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "etowsif"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>&nbsp;</p>\n<ul style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\">\n<li dir=\"ltr\" style=\"list-style-type: circle; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Fuging entrance: </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">One of relatively few fuging tunes in STH compared with OSH, its features are characteristic of the tunes that did find their way into the volume. </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Stylistically, the song features simple entrances using one of the most common fuge entrance patterns. The song is relatively short, with little extension of the textual counterpoint characteristic of the genre beyond that necessary to the entrances. Relatively short, a setting of just a single common meter stanza (some set C. M. D.; these didn&rsquo;t make the cut). </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Enduringly popular: James notes of NORTHFIELD and Ingalls&rsquo;s NEW JERUSALEM that &ldquo;These two great tunes and hymns have been in most of the choice selections since they were composed&rdquo; in the early nineteenth century. These characteristics may have made James imagine that the songs could bridge the chasm separating the singing convention setting, the rare context in which fuging tunes flourished in the nineteenth and early twentieth centuries and the congregational environment where James hoped STH might find adoption.</span></p>\n</li>\n</ul>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r3hrw04/canvas/2r3hrw04_Origin-1911-a-0165.tif",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r3hrw04/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=433,756,644,50",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='9208d065-01e6-4262-83e0-2639fe006e9b']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='3fb1fcf0-3e18-46d6-a8c1-43b14674a705']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-888e874e-ee5d-446b-8aaa-a34c750c5602 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0aa8176d-7f6a-441a-9fa6-bd2b67d3c97c",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "etowsif"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>&nbsp;</p>\n<ul style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\">\n<li dir=\"ltr\" style=\"list-style-type: circle; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Top staff of keyboard reduction on p. 39 in second measure: </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Fuging tunes are difficult to represent using the grand staff thanks to the rhythmic independence of the harmony parts as they &ldquo;fuge.&rdquo; This poses a particular challenge in STH where a keyboard reduction accompanies a four-staff vocal score.</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Here, S. M. D. irons out a discord introduced by the free movement of the song&rsquo;s alto and treble parts </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">as he struggles to express the difficult-to-typeset contrasting rhythms of the two parts in his reduction, ultimately pairing a tenor figure of two eighth notes with the middle two eighth notes of a melismatic run in the alto part, rather than the correct final two notes.</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> A similar issue occurs two measures later, after the parts have resolved to a strophic texture, where James pairs an alto quarter note on the fourth beat with a quarter note from the third beat of the tenor part, rather than a pair of eighth notes in the fourth beat that would be more challenging to typeset.</span></p>\n</li>\n</ul>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r3hrw04/canvas/2r3hrw04_Origin-1911-a-0165.tif",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r3hrw04/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=227,2850,841,57",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='f3c98444-227a-4a94-a153-43f0285424e2']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 3
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='bdc36c16-669c-40d2-b13f-f15e8365074a']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0aa8176d-7f6a-441a-9fa6-bd2b67d3c97c { background: rgba(0, 191, 255, 0.5); }"
+            }
+        }
+    ]
+}

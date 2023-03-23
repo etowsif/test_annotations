@@ -1,0 +1,107 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/annotations/etowsif/2r3hrw04/list/2r3hrw04_Origin-1911-a-0097.tif",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4e155722-4fde-4dd4-bbd6-195b8a5aca24",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "etowsif"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p><span id=\"docs-internal-guid-dc4eaeb4-7fff-7647-13dc-9e1fb3733e52\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">&ldquo;It is a fact that in the early days of this song many souls were born into the kingdom of God by the sound of the crude woodland songs.&rdquo;</span></span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r3hrw04/canvas/2r3hrw04_Origin-1911-a-0097.tif",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r3hrw04/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1385,319,585,59",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='b4ff8691-06f6-4b82-8bd4-28fd3e8faa2b']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='d2983e4b-aa0d-4e94-af83-55d7c780e78f']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4e155722-4fde-4dd4-bbd6-195b8a5aca24 { background: rgba(0, 191, 255, 0.5); }"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d23f8be6-fd58-4906-98ef-6e731229a77a",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "etowsif"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>&nbsp;</p>\n<ul style=\"margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;\">\n<li dir=\"ltr\" style=\"list-style-type: circle; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; margin-left: 36pt;\" aria-level=\"2\">\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" role=\"presentation\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">J. S. James adapted this description from Hezekiah Butterworth and Theron Brown, who group their description of a variant of &ldquo;Sweet Canaan&rdquo; and its revival campmeeting context with hymns attributed to Native American authors and &ldquo;quaint,&rdquo; &ldquo;pedestrian,&rdquo; &ldquo;unstudied,&rdquo; or colloquial&rdquo; hymns authored by revivalists or anonymous writers in a section on &ldquo;Old Revival Hymns&rdquo; in The Story of the Hymns and Their Tunes (1906).</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> Butterworth and Brown credit these hymns with &ldquo;open[ing] heaven to thousands &hellip; that sermons could not reach,&rdquo; yet adopt a </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">patronizing tone</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> in discussing them. James, who </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">drew extensively on contemporaneous works of criticism to elevate Original Sacred Harp through association</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, the pejorative tone of Butterworth and Brown&rsquo;s description. [note that this is somewhat at odds with James&rsquo;s quite evident favoring of the form, which is one of the main genre ingredients in STH. perhaps also a place to note that totally absent from B&amp;B or James (but perhaps a contributing factor to B&amp;B&rsquo;s pejorative tone) is </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">the acknowledgment of Black presence at revival choruses, a major flow of Af Am influence on STH and OSH/SH more broadly</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">.]</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><br /></span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">J. S. James based this historical note on Hezekiah Butterworth and Theron Brown&rsquo;s discussion of &ldquo;Bright Canaan&rdquo; in </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Story of the Hymns and Their Tunes</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> (1906). Butterworth and Brown locate the song in &ldquo;the old-time awakenings&rdquo; where a &ldquo;chorus&rdquo; like &ldquo;Bright Canaan&rdquo; was paired with &ldquo;hymn-lines being either improvised or picked up miscellaneously from memory, the interline &lsquo;I am bound for the land of Cana-an,&rsquo; occurring between every two.&rdquo; In their account, Butterworth and Brown reference a John Wesley hymn that James describes here as &ldquo;one of the old verses&rdquo; with interchangeable couplets. James misinterprets Butterworth and Brown, describing an implausible tug of war between tune and hymnwriter with no basis in history in which Wesley himself sought unsuccessfully to rework the tune. James&rsquo;s parsing of Butterworth and Brown suggests that he failed to grasp the revival campmeeting context in which &ldquo;Sweet Canaan&rdquo; and many other nineteenth-century songs in </span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Original Sacred Harp</span><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: #ffff00; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> emerged. Here, and elsewhere, Jame elides not only the racially mixed setting that influenced these songs and their reception, but also obscures the improvisatory setting of exchange in which hymn texts, tunes, and choruses were sung, improvised, and recombined.</span></p>\n</li>\n</ul>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/2r3hrw04/canvas/2r3hrw04_Origin-1911-a-0097.tif",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/2r3hrw04/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=106,2814,684,56",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='59678f7d-c703-40bd-90f2-244465214522']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 1
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='749cfee0-9b63-4e3e-87a1-3d886745b129']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-d23f8be6-fd58-4906-98ef-6e731229a77a { background: rgba(0, 191, 255, 0.5); }"
+            }
+        }
+    ]
+}
